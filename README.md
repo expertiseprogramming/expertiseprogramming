@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @expertiseprogramming
-- 👀 I’m interested in web application development (HTML5,CSS,JS,nodejs,expressjs,mysql,Responsive webpages) 
+- 👀 I’m interested in web application development (HTML5,CSS,JS,bootstrap,nodejs,expressjs,mysql,Responsive webpages) 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on web based project development/testing
 - 📫 How to reach me expertiseprogramming@gmail.com
